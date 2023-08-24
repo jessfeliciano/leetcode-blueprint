@@ -11,7 +11,7 @@ Solving LeetCode problems successfully comes down to two things:
 * Understand the [data structures](../2.%20Data%20Structures/Data-Structures.md) and their basic operations
 * Know [coding techniques](../3.%20Coding%20Techniques/Coding-Techniques-and-Patterns.md) for problem solving
 
-I can't guarantee that you will be successful and that you'll get the job or grow your skills, but what I can tell you is we give you a great place to start. At the end of the day, do what works for you, but it doesn't hurt to start here ;)
+I can't guarantee that you will be successful and that you'll get the job, but what I can tell you is we give you a great place to start. At the end of the day, do what works for you, but it doesn't hurt to start here ;)
 
 Here's how we'd suggest suggest approaching LeetCode problems: 
 
