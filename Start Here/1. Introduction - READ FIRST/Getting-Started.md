@@ -23,7 +23,7 @@ Here's how we'd suggest suggest approaching LeetCode problems:
 
 Here's a great way to schedule your days throughout the week:
 
-* Day 1:  Solve two problems from one topic
+* Day 1:  Solve two problems from first topic
 * Day 1:  Solve two problems from second topic
 * Day 1:  Reflect on problems from day one (if there's time, tack on one additional problem)
 * Day 1:  Reflect on problems from day two (if there's time, tack on one additional problem)
