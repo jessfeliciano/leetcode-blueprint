@@ -37,4 +37,10 @@ What this repo offers:
 
 If you've made it this far, thanks! 
 
-Visit [Data Structures](../2.%20Data%20Structures/Data-Structures.md) to get started.
+### Choose your own adventure
+
+You have two places where you can go next:
+* [Data Structures](../2.%20Data%20Structures/Data-Structures.md)
+* // ADHD Pro Tips -- COMING SOON
+
+Note: If you are someone who has an ADHD mind, you might be thinking "let's hop into data structures!" I want to caution you though - ADHD Pro Tips is a quick 5 min read so if you can muster it, I would quickly side quest there first. 
