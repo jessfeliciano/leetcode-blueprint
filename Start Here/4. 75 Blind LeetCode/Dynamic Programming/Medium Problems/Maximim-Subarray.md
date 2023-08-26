@@ -81,7 +81,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 
 `nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]`
 
-* First Iteration:
+First Iteration:
 
 - `maxEndingHere = -2` (initialized)
 - `maxSoFar = -2` (initialized)
@@ -91,7 +91,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 - `maxEndingHere = Math.max(1, (-2 + 1))` (works out to `maxEndingHere = 1`)
 - `maxSoFar = Math.max(-2, 1)` (works out to `maxSoFar = 1`)
 
-* Second Iteration: 
+Second Iteration: 
 
 - `maxEndingHere = 1` 
 - `maxSoFar = 1`
@@ -101,7 +101,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 - `maxEndingHere = Math.max(-3, (1 + -3))` (works out to `maxEndingHere = -2`)
 - `maxSoFar = Math.max(1, -2)` (works out to `maxSoFar = 1`)
 
-* Third Iteration: 
+Third Iteration: 
 
 - `maxEndingHere = -2` 
 - `maxSoFar = 1`
@@ -111,7 +111,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 - `maxEndingHere = Math.max(4, (-2 + 4))` (works out to `maxEndingHere = 4`)
 - `maxSoFar = Math.max(1, 4)` (works out to `maxSoFar = 4`)
 
-* Fourth Iteration: 
+Fourth Iteration: 
 
 - `maxEndingHere = 4` 
 - `maxSoFar = 4`
@@ -121,7 +121,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 - `maxEndingHere = Math.max(-1, (4 + -1))` (works out to `maxEndingHere = 3`)
 - `maxSoFar = Math.max(4, 3)` (works out to `maxSoFar = 4`)
 
-* Fifth Iteration: 
+Fifth Iteration: 
 
 - `maxEndingHere = 3` 
 - `maxSoFar = 4`
@@ -131,7 +131,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 - `maxEndingHere = Math.max(2, (3 + 2))` (works out to `maxEndingHere = 5`)
 - `maxSoFar = Math.max(4, 5)` (works out to `maxSoFar = 5`)
 
-* Sixth Iteration: 
+Sixth Iteration: 
 
 - `maxEndingHere = 5` 
 - `maxSoFar = 5`
@@ -141,7 +141,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 - `maxEndingHere = Math.max(1, (5 + 1))` (works out to `maxEndingHere = 6`)
 - `maxSoFar = Math.max(5, 6)` (works out to `maxSoFar = 6`)
 
-* Seventh Iteration: 
+Seventh Iteration: 
 
 - `maxEndingHere = 6` 
 - `maxSoFar = 6`
@@ -151,7 +151,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 - `maxEndingHere = Math.max(-5, (6 + -5))` (works out to `maxEndingHere = 1`)
 - `maxSoFar = Math.max(6, 1)` (works out to `maxSoFar = 6`)
 
-* Eighth Iteration: 
+Eighth Iteration: 
 
 - `maxEndingHere = 1` 
 - `maxSoFar = 6`
@@ -161,7 +161,7 @@ For `maxSoFar` will equal the highest number between `maxSoFar` and `maxEndingHe
 - `maxEndingHere = Math.max(6, (1 + 4))` (works out to `maxEndingHere = 6`)
 - `maxSoFar = Math.max(6, 6)` (works out to `maxSoFar = 6`)
 
-* Final Return:
+Final Return:
 - `6`
 
 **Explanation**
