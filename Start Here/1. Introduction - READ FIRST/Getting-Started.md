@@ -11,7 +11,7 @@ Solving LeetCode problems successfully comes down to two things:
 * Understand the [data structures](../2.%20Data%20Structures/Data-Structures.md) and their basic operations
 * Know [coding techniques](../3.%20Coding%20Techniques/Coding-Techniques-and-Patterns.md) for problem solving
 
-I can't guarantee that you will be successful and that you'll get the job or grow your skills, but what I can tell you is we give you a great place to start. At the end of the day, do what works for you, but it doesn't hurt to start here ;)
+I can't guarantee that you will be successful and that you'll get the job, but what I can tell you is we give you a great place to start. At the end of the day, do what works for you, but it doesn't hurt to start here ;)
 
 Here's how we'd suggest suggest approaching LeetCode problems: 
 
@@ -24,7 +24,7 @@ Here's how we'd suggest suggest approaching LeetCode problems:
 
 Here's a great way to schedule your days throughout the week:
 
-* Day 1:  Solve two problems from one topic
+* Day 1:  Solve two problems from first topic
 * Day 1:  Solve two problems from second topic
 * Day 1:  Reflect on problems from day one (if there's time, tack on one additional problem)
 * Day 1:  Reflect on problems from day two (if there's time, tack on one additional problem)
@@ -39,4 +39,10 @@ What this repo offers:
 
 If you've made it this far, thanks! 
 
-Visit [Data Structures](../2.%20Data%20Structures/Data-Structures.md) to get started.
+### Choose your own adventure
+
+You have two places where you can go next:
+* [Data Structures](../2.%20Data%20Structures/Data-Structures.md)
+* // ADHD Pro Tips -- COMING SOON
+
+Note: If you are someone who has an ADHD mind, you might be thinking "let's hop into data structures!" I want to caution you though - ADHD Pro Tips is a quick 5 min read so if you can muster it, I would quickly side quest there first. 
