@@ -1,21 +1,6 @@
+// Maximum Subarray
 
-
-// Approach 1: Dynamic Programming 
-var maxSubArray = function(nums){
-    let maxSum = nums[0];
-
-    for(let i = 1; i < nums.length; i++){
-        nums[i] = Math.max(0, nums[i - 1] + nums[i]);
-
-        if(nums[i] > maxSum){
-            maxSum = nums[i];
-        }
-    }
-
-    return maxSum;
-}
-
-// Approach 2: Kadane's Algorithm
+// Approach 1: Dynamic Programming - Kadane's Algorithm
 var maxSubArray = function(nums) {
     let maxEndingHere = nums[0];
     let maxSoFar = maxEndingHere;
@@ -28,7 +13,7 @@ var maxSubArray = function(nums) {
     return maxSoFar;
 } 
 
-// Approach 3: Divide & Conquer (Advanced)
+// Approach 2: Divide & Conquer (Advanced)
 // Original Author: https://leetcode.com/problems/maximum-subarray/solutions/364839/divide-conquer-commented-explanation-and-big-o-js/
 var maxSubArray = function(nums) {
 	// Return the results of the recursive function

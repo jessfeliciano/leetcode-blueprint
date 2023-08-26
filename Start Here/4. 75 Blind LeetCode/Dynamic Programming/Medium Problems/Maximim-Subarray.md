@@ -5,8 +5,7 @@
 Level: Medium
 Data Structure: Array
 Approach: 
-* Dynamic Programming (w/o Kadane)
-* Kadane's Algorithm
+* Dynamic Programming (Kadane's Algorithm)
 * Divide & Conquer
 
 Pre-Requisites: 
@@ -22,11 +21,7 @@ Solution code for all approaches [here](Maximum-Subarray.js)
 
 The first clue that would make you suspect that you should use dynamic programming to solve this problem is when you're asked to find the max or min of something. 
 
-There are a few ways we can even dynamically program our solution:
-* dynamic programming without the Kadane Algorithm
-* dynamic programming with the Kadane Algorithm
-
-For this walkthrough, we are approaching this problem with Kadane's algorithm.
+For this walkthrough, we are approaching this problem using Dynamic Programming with Kadane's algorithm.
 
 ### Algorithm - Kadane's Algorithm
 We can systematically figure out where to start and where to end by doing the following: 
