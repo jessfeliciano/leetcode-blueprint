@@ -180,7 +180,10 @@ One common mistake is to forget while we're working through this problem that we
 
 ### Next
 
-if(Did you solve it on the first go?) 
-    [Check this problem out]()
-else
-    [Check this problem out]()
+if(Did you solve it on the first go?):
+
+[Check this problem out]()
+
+else:
+
+[Check this problem out]()
