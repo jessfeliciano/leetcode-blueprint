@@ -20,6 +20,7 @@ Here's how we'd suggest suggest approaching LeetCode problems:
 3. Study 30-60 mins on study days (ideally five days a week)
 4. Pick two topics to study each week (whether a data structure or technique)
 5. Don't spin your wheels for hours if you're not able to solve the problem. Instead, take a break, review the solution(s) and walk through the code step by step so that you understand exactly what's happening and why (doing this is critical for deepening your knwoledge and growing your skills)
+6. If you don't get the problem the first time (expect this to happen a lot if you're new and this is completely okay, I promise), keep track of the problem so that you can revisit it in the future with fresher eyes and challenge yourself to solving it again (the goal isn't to memorize the solutions to problems, the goal is to simply build your skills so that you can solve these problems without memorizing the answers)
 
 Here's a great way to schedule your days throughout the week:
 
@@ -27,13 +28,14 @@ Here's a great way to schedule your days throughout the week:
 * Day 1:  Solve two problems from second topic
 * Day 1:  Reflect on problems from day one (if there's time, tack on one additional problem)
 * Day 1:  Reflect on problems from day two (if there's time, tack on one additional problem)
-* Day 1:  Tackle one new problem from each topic
+* Day 1:  Tackle one new problem from each topic or attempt to solve a problem from your list of problems-you-didn't-solve-the-first-time-around
 
 What this repo offers:
 
 * Explainers for all of the most common data structures you can expect to know when solving LeetCode problems along with some suggested practice problems
 * Explainers for all of the most common techniques and patterns you can expect to use when solving LeetCode problems along with some suggested practice problems
 * Solutions for the 75 Blind LeetCode problems along with callouts regarding what you should know before solving the problem and takeaways to understand after solving the problem 
+* If you solved the given problem on the first go, we will suggest a new problem to tackle based on what we would assume is your current understanding. If you don't solve the given problem on the first go, we will suggest a new problem to tackle if you want to continue to practice the concept
 
 If you've made it this far, thanks! 
 
