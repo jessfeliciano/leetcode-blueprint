@@ -1,5 +1,7 @@
 ![logo-white](https://github.com/jessfeliciano/leetcode-blueprint/assets/38792828/a976fdac-da82-477d-84c1-45c87cb5cc10)
 
+(Note: lectures and solution walkthroughs are currently incomplete)
+
 Welcome to the LeetCode Blueprint! 
 
 Here, you'll embark on an exciting journey through the world of algorithmic problem-solving and coding challenges. Whether you're a beginner aiming to enhance your coding skills or an experienced developer looking to sharpen your problem-solving abilities, this repository is your comprehensive guide to mastering LeetCode problems.
